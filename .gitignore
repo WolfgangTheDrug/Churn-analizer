@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environmental variables
+.env
+.env.local
+*.env
+
+# local only
+assets/
+/src/html_experiment/
+EDA.ipynb
+
+# other
+*.DS_Store
